@@ -1,0 +1,32 @@
+{
+	"info": {
+		"_postman_id": "01818be8-eda4-4e78-9563-e26ae26ac5d4",
+		"name": "Subtask 11 Echo API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Read echojson",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://echo.jsontest.com/insert-key-here/insert-value-here/key/value",
+					"protocol": "http",
+					"host": [
+						"echo",
+						"jsontest",
+						"com"
+					],
+					"path": [
+						"insert-key-here",
+						"insert-value-here",
+						"key",
+						"value"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

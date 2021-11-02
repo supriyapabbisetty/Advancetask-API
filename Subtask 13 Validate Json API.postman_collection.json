@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "1725be0d-6cb4-4270-ac36-feb8c98f0993",
+		"name": "Subtask 13 Validate Json API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Read Validate jsontest",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://validate.jsontest.com/?json=%5BJSON-code-to-validate%5D",
+					"protocol": "http",
+					"host": [
+						"validate",
+						"jsontest",
+						"com"
+					],
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "json",
+							"value": "%5BJSON-code-to-validate%5D"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

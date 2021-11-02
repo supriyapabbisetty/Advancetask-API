@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "5679dea1-25e9-4344-8214-f561f38b7608",
+		"name": "Subtask 9 Restful API of State&Territories",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Read sate&Territories",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://www.groupkt.com/post/5c85b92f/restful-rest-webservice-to-get-and-search-states-and-territories-of-a-country.htm",
+					"protocol": "http",
+					"host": [
+						"www",
+						"groupkt",
+						"com"
+					],
+					"path": [
+						"post",
+						"5c85b92f",
+						"restful-rest-webservice-to-get-and-search-states-and-territories-of-a-country.htm"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

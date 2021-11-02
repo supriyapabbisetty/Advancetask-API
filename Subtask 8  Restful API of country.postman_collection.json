@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "bf0bbd13-b2f6-433f-adaf-34dbc3d7896c",
+		"name": "Subtask 8  Restful API of country",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Reading Restful groupkt",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://www.groupkt.com/post/c9b0ccb9/country-and-other-related-rest-webservices.htm",
+					"protocol": "http",
+					"host": [
+						"www",
+						"groupkt",
+						"com"
+					],
+					"path": [
+						"post",
+						"c9b0ccb9",
+						"country-and-other-related-rest-webservices.htm"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

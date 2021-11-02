@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "a39d457b-ead8-4403-8160-d5d170529680",
+		"name": "Subtask 6 List of Dog breeds",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "List of dog breeds",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}

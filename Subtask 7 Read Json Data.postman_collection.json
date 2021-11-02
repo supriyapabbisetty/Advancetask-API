@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "65775867-7878-4223-8bbc-9d69de0794c0",
+		"name": "Subtask 7 Read Json Data",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Read Json Data",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ip.jsontest.com/",
+					"protocol": "http",
+					"host": [
+						"ip",
+						"jsontest",
+						"com"
+					],
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
